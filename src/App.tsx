@@ -14,7 +14,7 @@ function App() {
   const userEmail = "react@kelmagaoay.com";
   const registrantToken = "";
   const zakToken = "";
-  const leaveUrl = "http://localhost:5173";
+  const leaveUrl = "https://sekelly.github.io/websdkreact";
 
   const getSignature = async () => {
     try {
