@@ -5,9 +5,9 @@ function App() {
   const client = ZoomMtgEmbedded.createClient();
 
   const authEndpoint = ""; // http://localhost:4000
-  const sdkKey = "";
+  const sdkKey = "PfPapLCavJc2ZBjMkssNeqboLdBOpoAEXQTc";
   const meetingNumber = "95160050210";
-  const passWord = "";
+  const passWord = "123";
   const role = 0;
   const userName = "React";
   const userEmail = "";
